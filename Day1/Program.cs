@@ -112,6 +112,7 @@ string ConvertNumberNameToNumber(string numberString)
 
 
 // Part 1
+// the variable numbers used to be a char[] but had to be changed to List<string> to accomodate changes in part 2. This is why the code just got commented out and no longer works
 
 //foreach (string line in split)
 //{
